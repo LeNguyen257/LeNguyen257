@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeNguyen257
-- 👀 I’m interested in UX/UI designs
+- 👀 I’m interested in Front-end developing
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
